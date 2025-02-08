@@ -1,8 +1,0 @@
-# Ignore all init python files
-**/__init__.py
-
-# Ignore .gitignore files
-**/.gitignore
-
-# Ignore .idea folder with files inside
-.idea
