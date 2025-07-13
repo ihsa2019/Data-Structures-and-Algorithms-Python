@@ -1,0 +1,2 @@
+ORIGINAL_ARRAY = [4, 5, 2, 8, 1, 7, 3]
+EXPECTED = [1, 2, 3, 4, 5, 7, 8]
