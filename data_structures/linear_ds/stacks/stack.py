@@ -1,3 +1,5 @@
+from common_utils.constants import STACK_MAX_SIZE
+
 class Stack():
     def __init__(self, size):
         self.items = []
@@ -28,7 +30,7 @@ class Stack():
 
 
 def main():
-    stack = Stack(5)
+    stack = Stack(STACK_MAX_SIZE)
 
     stack.push(1)
     stack.push(2)
